@@ -1,7 +1,8 @@
 To compile and run the example execute: 
 
-`cd initial`
-`mvn package && java -jar target/gs-spring-boot-0.1.0.jar`
+```cd initial
+mvn package && java -jar target/gs-spring-boot-0.1.0.jar
+```
 
 To access to the **Swagger-UI** go to http://localhost:8080/swagger-ui.html
 
