@@ -1,6 +1,7 @@
 To compile and run the example execute: 
 
-```cd initial
+```
+cd initial
 mvn package && java -jar target/gs-spring-boot-0.1.0.jar
 ```
 
